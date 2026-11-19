@@ -121,6 +121,9 @@ jupyter notebook
 ```
 
 5. Open the analysis notebook and execute the cells.
+6. Power  BI  dashboard  for Virat Kohli's strike rate
+   <img width="1200" height="682" alt="image" src="https://github.com/user-attachments/assets/c1f528c2-594a-4105-ae5e-57b2ad0c76cc" />
+
 
 ## 💡 Key Learnings
 
